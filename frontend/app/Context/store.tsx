@@ -1,3 +1,4 @@
+'use client'
 import { createContext, useContext, Dispatch, SetStateAction, useState, ReactNode } from "react";
 
 type DataType = {
